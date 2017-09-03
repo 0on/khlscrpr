@@ -1,2 +1,2 @@
 # khlscrpr
-Bot scrapper for hockey translations
+Telegram bot scrapper for hockey translations
