@@ -12,5 +12,5 @@
   "dependencies": {
     "node-telegram-bot-api": "^0.28.0",
     "x-ray": "^2.3.2"
-  },
+  }
 }
